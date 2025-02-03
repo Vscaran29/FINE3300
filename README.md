@@ -1,6 +1,7 @@
+Overview of Assignment One Code
+
+
 The following code calculates for the users’ mortgage payment based on parameters set out.
-
-
 The function requires users to provide the following 3 key inputs in the specified format to receive the output:
 
 -Principal amount- The $ amount outstanding on the mortgage
@@ -12,7 +13,7 @@ Key Assumptions:
 -By the end of the amortization period the principal balance on the mortgage will be equal to 0
 -User inputs must follow the specified formats outlined in the inputs section. User inputs are not validated to check for errors or erroneous inputs.
 
-Using the 3 inputs, the function will return to users the different options they have, and the payment amounts for different mortgage payment structures. Note that all the widely available mortgage options are quoted as outputs for the function
+Using the 3 inputs, the function will return to users the different options they have, and the payment amounts for different mortgage payment structures. 
 
 The different payment options include the following payment schedules:
 
@@ -22,4 +23,6 @@ The different payment options include the following payment schedules:
 •	Weekly
 •	Accelerated Biweekly
 •	Accelerated Weekly
+
+The Final input of this code can equip users to understand the different options availible when looking to take out a mortgage tailored to their specifc situation.
 
